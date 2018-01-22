@@ -16,10 +16,10 @@ import os
 
 
 ##server login details
-#server_name = '10.12.15.13'
-#db_user = 'larry.jerome@kippdc.org'
-#db_pass = 'LJ@ki99D('
-#db_name = 'cust1220'
+#server_name = 
+#db_user = 
+#db_pass = 
+#db_name = 
 #
 #
 #def getRecords(query):
